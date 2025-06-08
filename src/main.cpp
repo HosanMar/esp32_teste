@@ -6,8 +6,8 @@
 #include "sensor_dht.h"
 
 // Config Wi-Fi
-const char* ssid = "brisa-3992484";
-const char* password = "zcwbwerm";
+const char* ssid = "_";
+const char* password = "_";
 
 // Config MQTT
 const char* mqtt_server = "broker.hivemq.com";
